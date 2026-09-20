@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+spacy
+scikit-learn
+pymupdf
+celery
+redis
+python-dotenv
+huggingface-hub
+requests

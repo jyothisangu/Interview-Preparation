@@ -23,6 +23,27 @@ It provides interview questions, practice sessions, and useful preparation resou
 - JavaScript
 - Python
 - Database
+- React
+- FastAPI
+
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Interview Page
+![Interview Page](screenshots/interview.png)
+
+### Results
+![Results](screenshots/results.png)
+
 
 ## 🚀 How to Run
 
